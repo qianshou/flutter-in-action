@@ -20,10 +20,10 @@ Flutter Packages分为两类：
 
 ![图12-1](../imgs/12-1.png)
 
-您也可以通过使用`--template=package` 来执行 `flutter create` 命令来创建：
+您也可以通过使用`--template=plugin` 来执行 `flutter create` 命令来创建：
 
 ```shell
-flutter create --template=package hello
+flutter create --template=plugin hello
 ```
 
 这将在`hello/`文件夹下创建一个具有以下专用内容的package工程：
